@@ -46,7 +46,7 @@ export function Menu({ musicManager }: { musicManager: MusicManager }) {
         <div className="grid grid-cols-2 gap-2 mt-4">
           <CreateCustomSongDialog musicManager={musicManager} />
           <a
-            href="https://github.com/fuma-nama/fuma-lofi"
+            href="https://github.com/n0lawz/cracked-lofi"
             target="_blank"
             className={cn(
               buttonVariants({
