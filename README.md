@@ -1,6 +1,6 @@
-## Fuma Lofi
+## lofi cracked
 
-Some nice lofi music and a music player.
+the greatest song of all time. original project: [fuma-lofi](https://fuma-lofi.vercel.app)
 
 **Demo:** https://lofi.crack.dev
 
