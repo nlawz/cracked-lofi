@@ -2,7 +2,7 @@
 
 Some nice lofi music and a music player.
 
-**Demo:** https://fuma-lofi.vercel.app
+**Demo:** https://lofi.crack.dev
 
 ![Preview](./public/preview.png)
 
@@ -11,7 +11,7 @@ Some nice lofi music and a music player.
 Clone the repository.
 
 ```bash
-git clone https://github.com/fuma-nama/fuma-lofi.git
+git clone https://github.com/n0lawz/cracked-lofi
 ```
 
 Install with [pnpm](https://pnpm.io).
@@ -38,20 +38,3 @@ This project uses Vite and React.js.
 pnpm build && pnpm preview
 ```
 
-### Custom Songs
-
-With an URL of the song (must be available to client, e.g. served from `http://localhost`), you can add a custom song in the menu.
-
-### Demo Songs
-
-Music from [Uppbeat](https://uppbeat.io).
-It is encouraged to bring your own songs.
-
-- https://uppbeat.io/t/ra/cold-brew
-License code: `OZKJV3M2MXHS6NBX`
-
-- https://uppbeat.io/t/avbe/night-in-kyoto
-License code: `NNDPYSZCN8HVGASH`
-
-- https://uppbeat.io/t/prigida/moonshine
-License code: `OM8JENTZZEBMACX1`
