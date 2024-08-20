@@ -20,15 +20,6 @@ export function CreateCustomSongDialog({
 
   return (
     <Dialog open={open} onOpenChange={setOpen}>
-      <DialogTrigger
-        className={cn(
-          buttonVariants({
-            variant: "secondary",
-          }),
-        )}
-      >
-        Custom Songs
-      </DialogTrigger>
       <DialogContent>
         <CreateCustomSong
           storage={musicManager.storageManager}
